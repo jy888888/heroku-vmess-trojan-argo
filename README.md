@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/jy888888/heroku-vmess-trojan-argo)
+
 ## 鸣谢
 
 - [Project X](https://github.com/XTLS/Xray-core)
